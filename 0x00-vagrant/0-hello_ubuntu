@@ -1,0 +1,19 @@
+Welcome to Ubuntu 20.04.4 LTS (GNU/Linux 5.4.0-100-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Sun Mar  6 12:14:01 UTC 2022
+
+  System load:  0.01              Processes:               115
+  Usage of /:   3.4% of 38.71GB   Users logged in:         1
+  Memory usage: 19%               IPv4 address for enp0s3: 10.0.2.15
+  Swap usage:   0%
+
+
+1 update can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+
+Last login: Sun Mar  6 12:11:59 2022 from 10.0.2.2
